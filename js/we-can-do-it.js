@@ -33,7 +33,8 @@ var lastRandNum = 1; // the last random number to compare the current one for du
 var quotesArray = [
 			"When I was in high school, I was certain that being an astronaut was my goal. It was a very important time -- Sally Ride was making her first flight into space and she had a real impact on me.<br><br>--Karen Nyberg, Astronaut<br><br>",
 	 			"I used to not like being called a 'woman architect.' I'm an architect, not just a woman architect. The guys used to tap me on the head and say 'you're OK for a girl<br><br>--Zaha Hadid, Architect<br><br>", 
-	 			"People ask me all the time: 'What is it like to be a woman at Google?' I'm not a woman at Google, I'm a geek at Google. And being a geek is just great.<br><br>--Marissa Mayer, CEO of Yahoo, former engineer at Google</p>"
+	 			"People ask me all the time: 'What is it like to be a woman at Google?' I'm not a woman at Google, I'm a geek at Google. And being a geek is just great.<br><br>--Marissa Mayer, CEO of Yahoo, former engineer at Google</p>",
+	 			"Science is not a boy's game, it's not a girl's game. It's everyone's game. It's about where we are and where we're going.<br><br>--Nichelle Nichols, former NASA Ambassador and actress"
  			];
 
 
